@@ -2,6 +2,7 @@
 
 CyanogenMax2D XL is a similated environment of Android
 made with Max2D for Android devices. *Yeah, it's pointless*
+
 This version of the simulator is for tablets. If you want the original, then go to 
 the main branch.
 

@@ -44,33 +44,7 @@ Currently, I made 3 new applications for the simulator, with more to come.
 
   * Added sound to Minecraft vid
 
-* Version 1.1 Sigma XL - June 7th, 2021
 
-  * Adjustments for large screens
-
-  * Added a power button
-
-  * New menu interface for the Music app
-
-  * 2 new songs:
-
-    * Closing In - Borderline Forever OST - Scott Wozniak 
-
-    * Special Stage - Sonic Color DS - Unknown
-
-  * Replace the old boring black screen with a new BSOD + reinstallation pop up
-
-  * Fixes to the battery algorithm 
-
-  * For some reason, I adjusted the date
-
-  * New music icon
-
-  * Added sound to Minecraft vid
-
-  * Reinstalling the system is a little bit faster than the normal one
-
-* Version 2.0 Rocket - ??? 
 ## Build Instructions
 
 You can build it via Apktool M via aapt2. 

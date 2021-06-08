@@ -2,6 +2,7 @@
 
 CyanogenMax2D is a similated environment of Android
 made with Max2D for Android devices. *Yeah, it's pointless*
+
 This is specifically made for modern Android phones. For the
 tablet version, go to the XL branch. 
 

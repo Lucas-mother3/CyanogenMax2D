@@ -38,6 +38,9 @@ Currently, I made 3 new applications for the simulator, with more to come.
   * Added sound to Minecraft vid
 
   * Reinstalling the system is a little bit faster than the normal one
+* Version 1.1.1 Sigma XL
+  * Updated UI for Tablets
+  * Added cursor
 
 * Version 2.0 Rocket - ???  
 ## Build Instructions
